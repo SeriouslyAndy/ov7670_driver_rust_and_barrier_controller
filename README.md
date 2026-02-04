@@ -8,6 +8,7 @@ Smart system for security measures
 :::
 
 ## Description
+NOTA BENE! YOU NEED EMBASSY!
 
 A smart barrier system that uses a license plate reader to automatically allow or deny access to vehicles based on a list of authorized plates. The system uses a Raspberry pi pico 2W microcontroller, infrared sensor,a camera (511OVO), LEDs in order to check for input/output and a servo motor to manage the barrier mechanism.
 
