@@ -16,9 +16,6 @@ A smart barrier system that uses a license plate reader to automatically allow o
 
 Traditional manual access control systems are slow and inefficient. By automating access with license plate recognition, the system offers faster and more secure access control for private parking lots, company gates etc.
 
-## Architecture 
-
-![architecture](img4site.svg)
 
 **Components:**
 - **Camera Module 511OVO (or OV7670)** – captures image of license plate.
@@ -59,10 +56,6 @@ Detail in a few words the hardware used.
 - **Infrared sensor**: Detect car.
 - **Power Supply**: Micro-usb.
 - **Basic breadboards, wires, LEDs & resistors**: ... 
-
-### Schematics
-
-![schematics](img4kicad.svg)
 
 ### Bill of Materials
 
